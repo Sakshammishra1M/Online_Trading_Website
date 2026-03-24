@@ -1,10 +1,10 @@
-# Zerodha
+# Online Trading Website
 Please try to implement the project on your own before proceeding to the lectures &amp; code.
-# Zerodha Clone - Microservices Stock Trading Platform  
+# Microservices Stock Trading Platform  
 *High-performance trading system mirroring Zerodha's core functionality.*  
 
 ##  Tech Stack  
-**Backend**: Node.js | Express.js | **REST API Design** | WebSockets | JWT  
+**Backend**: Node.js | Express.js | **REST API Design** | WebSockets  
 **Frontend**: React | Redux | Chart.js | ECMAScript 6  
 **Infrastructure**: **Docker** | **AWS EC2** | Jenkins CI/CD  
 **Database**: **PostgreSQL** | MongoDB  
