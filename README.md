@@ -1,12 +1,11 @@
 # Online Trading Website
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
 # Microservices Stock Trading Platform  
-*High-performance trading system mirroring Zerodha's core functionality.*  
+*High-performance trading system core functionality.*  
 
 ##  Tech Stack  
 **Backend**: Node.js | Express.js | **REST API Design** | WebSockets  
 **Frontend**: React | Redux | Chart.js | ECMAScript 6  
-**Infrastructure**: **Docker** | **AWS EC2** | Jenkins CI/CD  
+**Infrastructure**: **Docker** | **AWS EC2**
 **Database**: **PostgreSQL** | MongoDB  
 **Testing**: Jest (Unit) | Cypress (**End-to-End Testing**)  
 
